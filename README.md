@@ -1,1 +1,1 @@
-# Speedy_julia
+# SpeedFunctions
